@@ -5,10 +5,9 @@
 A wrapper providing Active-Record style access to Deta's Collections using Pydantic.
 
 ```py
-from typing import Optional
+from spacemodel import SpaceModel
 from datetime import datetime
 
-from spacemodel import SpaceModel
 
 # The following is not required when ran inside a Deta Micro
 SpaceModel.set_project_key('...')
@@ -40,6 +39,6 @@ refer to the [Space Docs](https://deta.space/docs/en/build/reference/sdk/base) f
 
 <!-- LICENSE -->
 ## License
-Distributed under the [Zero‐Clause BSD (0BSD)](https://opensource.org/license/0bsd/) license. See [LICENSE][license-url] for more information.
+Distributed under the [Zero‐Clause BSD (0BSD)](https://opensource.org/license/0bsd/) license. See [LICENSE](LICENSE) for more information.
 
 <div align="right">(<a href="#top">back to top</a>)</div>
