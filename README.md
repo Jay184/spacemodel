@@ -1,5 +1,7 @@
 <div id="top"></div>
 
+# Deta Space shut down in 2024 thus deprecating this package.
+
 # SpaceModel
 
 A wrapper providing Active-Record style access to Deta's Collections using Pydantic.
